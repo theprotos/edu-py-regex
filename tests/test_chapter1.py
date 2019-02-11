@@ -1,6 +1,6 @@
 import unittest
 
-from introduction.common import *
+from chapter1.common import *
 
 
 class TestChapter1(unittest.TestCase):
